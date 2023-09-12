@@ -60,3 +60,9 @@ The following tools were used in the construction of the project:
 - **[Styled Components](https://styled-components.com/)**
 - **[Zod](https://zod.dev/)**
 - **[React Hook Form](https://react-hook-form.com/)**
+- ---
+
+## Deployed Project
+
+You can check out the deployed version of this project on Vercel by [clicking here](https://3lucasrs-ignite-timer.vercel.app/).
+
